@@ -1,0 +1,22 @@
+{
+  "name": "count-utility",
+  "version": "1.0.0",
+  "description": "count the traversed string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay8500/count-utility.git"
+  },
+  "keywords": [
+    "uppercase",
+    "lowercase",
+    "digits",
+    "special",
+    "characters"
+  ],
+  "author": "Jaya Krishna Lakkoju",
+  "license": "ISC"
+}
