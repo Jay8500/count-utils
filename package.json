@@ -1,14 +1,14 @@
 {
-  "name": "count-utility",
+  "name": "count-utils",
   "version": "1.0.0",
-  "description": "count the traversed string",
+  "description": "count the travesed string",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jay8500/count-utility.git"
+    "url": "git+https://github.com/Jay8500/count-utils.git"
   },
   "keywords": [
     "uppercase",
@@ -18,5 +18,9 @@
     "characters"
   ],
   "author": "Jaya Krishna Lakkoju",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jay8500/count-utils/issues"
+  },
+  "homepage": "https://github.com/Jay8500/count-utils#readme"
 }
